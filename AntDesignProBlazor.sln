@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyAntDesignApp", "MyAntDesignApp.csproj", "{AAF39DC8-6FB7-400F-8109-345F80C07F8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntDesignProBlazor", "AntDesignProBlazor.csproj", "{8FC473CE-F5D8-474C-AE48-D9F147350712}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AAF39DC8-6FB7-400F-8109-345F80C07F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AAF39DC8-6FB7-400F-8109-345F80C07F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AAF39DC8-6FB7-400F-8109-345F80C07F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AAF39DC8-6FB7-400F-8109-345F80C07F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FC473CE-F5D8-474C-AE48-D9F147350712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC473CE-F5D8-474C-AE48-D9F147350712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC473CE-F5D8-474C-AE48-D9F147350712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC473CE-F5D8-474C-AE48-D9F147350712}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9516F2AF-138A-422C-9835-E3DBE08E0D9C}
+		SolutionGuid = {425C690C-0554-487E-85BC-F86FE33AB742}
 	EndGlobalSection
 EndGlobal
